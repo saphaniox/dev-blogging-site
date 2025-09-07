@@ -31,7 +31,6 @@ pids
 coverage
 *.lcov
 
-# nyc test coverage
 .nyc_output
 
 # Dependency directories
