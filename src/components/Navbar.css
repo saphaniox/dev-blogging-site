@@ -5,7 +5,7 @@
   background-color: #fff;
   box-shadow: 0 2px 4px #ebedf01a;
   z-index: 1000;
-  /* Added a bit more visual depth */
+
   border-bottom: 1px solid #f0f0f0;
 }
 
@@ -23,7 +23,6 @@
   font-weight: bold;
   color: #007bff;
   text-decoration: none;
-  /* Little hover effect for the brand */
   transition: transform 0.2s ease;
 }
 
@@ -42,7 +41,6 @@
   text-decoration: none;
   font-weight: 500;
   transition: color 0.2s;
-  /* Added padding for better click targets */
   padding: 0.25rem 0.5rem;
   border-radius: 4px;
 }
