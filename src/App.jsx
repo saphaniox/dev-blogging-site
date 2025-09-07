@@ -10,7 +10,7 @@ import ViewPost from "./pages/ViewPost";
 import EditPost from "./pages/EditPost";
 import "./App.css";
 
-// Main app component - keeping it simple and clean
+// Main app component 
 function App() {
   return (
     <AuthProvider>
